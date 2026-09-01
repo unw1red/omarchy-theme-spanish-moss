@@ -1,0 +1,35 @@
+# "Spanish Moss" — derived from a live oak draped in Spanish moss
+# Dark moss-shadow surfaces, silvery sage accent, lawn greens, silver-blue sky.
+
+mode = "dark"
+
+accent = "#b5bf9c"
+selection = "#3a4030"
+muted = "#8b8d7c"
+
+background = "#20241a"
+dark_background = "#191c15"
+darker_background = "#121410"
+lighter_background = "#32362a"
+
+foreground = "#dfe2d2"
+dark_foreground = "#7f836f"
+light_foreground = "#cdd0bd"
+bright_foreground = "#eef0e2"
+
+red = "#c58a72"
+yellow = "#d6d9a7"
+orange = "#c9a56b"
+green = "#a2aa70"
+cyan = "#aec6c8"
+blue = "#86a5b8"
+magenta = "#bb98a4"
+brown = "#847b69"
+
+bright_red = "#d99c84"
+bright_yellow = "#e2e5b8"
+bright_green = "#b4bc84"
+bright_cyan = "#c2d6d8"
+bright_blue = "#9cb9ca"
+bright_magenta = "#cbabb6"
+bright_brown = "#9a9080"
